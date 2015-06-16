@@ -3,13 +3,11 @@ website_id,name,country,national_party
 97198,Mara BIZZOTTO,Italy,Lega Nord 
 96993,Lorenzo FONTANA,Italy,Lega Nord 
 96981,Franz OBERMAYR,Austria,Freiheitliche Partei Österreichs 
-96877,Zoltán BALCZÓ,Hungary,Jobbik Magyarországért Mozgalom 
-96661,Krisztina MORVAI,Hungary,Jobbik Magyarországért Mozgalom 
 38511,Georg MAYER,Austria,Freiheitliche Partei Österreichs 
 30190,Louis ALIOT,France,Front national 
 28404,Matteo SALVINI,Italy,Lega Nord 
 28210,Marine LE PEN,France,Front national 
-21817,Mario BORGHEZIO,Italy,Lega Nord
+21817,Mario BORGHEZIO,Italy,Lega Nord 
 21331,Sylvie GODDYN,France,Front national 
 125684,Philippe LOISEAU,France,Front national 
 125029,Hans JANSEN,Netherlands,Partij voor de Vrijheid 
@@ -36,5 +34,4 @@ website_id,name,country,national_party
 124751,Dominique MARTIN,France,Front national 
 124750,Mireille D'ORNANO,France,Front national 
 124748,Marie-Christine ARNAUTU,France,Front national 
-110977,Florian PHILIPPOT,France,Front national 
-102887,Béla KOVÁCS,Hungary,Jobbik Magyarországért Mozgalom
+110977,Florian PHILIPPOT,France,Front national
